@@ -1,0 +1,6 @@
+def things_on_my_desk: {
+
+Glasses
+Ring 
+Iphone
+Water }
